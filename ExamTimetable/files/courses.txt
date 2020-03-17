@@ -1,0 +1,1266 @@
+[
+    {
+        "code": "ODE186",
+        "department": 4,
+        "instructor": 1,
+        "semester": 3,
+        "capacity": 1,
+        "course": "ENGINEERING LOGISTICS (ERASMUS STUDENTS)"
+    },
+    {
+        "code": "ODE131",
+        "department": 4,
+        "instructor": 2,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0391\u039d\u0391\u039b\u03a5\u03a3\u0397 \u039b\u039f\u0393\u0399\u03a3\u03a4\u0399\u039a\u03a9\u039d \u039a\u0391\u03a4\u0391\u03a3\u03a4\u0391\u03a3\u0395\u03a9\u039d (\u039f\u0394\u0395 2810)"
+    },
+    {
+        "code": "ODE316",
+        "department": 4,
+        "instructor": 3,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u0391\u03c1\u03c7\u03ad\u03c2 \u039c\u03ac\u03c1\u03ba\u03b5\u03c4\u03b9\u03bd\u03b3\u03ba 2015-16"
+    },
+    {
+        "code": "ODE261",
+        "department": 4,
+        "instructor": 4,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u0394\u03b9\u03ac\u03c1\u03b8\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2"
+    },
+    {
+        "code": "ODE340",
+        "department": 4,
+        "instructor": 5,
+        "semester": 5,
+        "capacity": 3,
+        "course": "\u0394\u03b9\u03b1\u03c6\u03ae\u03bc\u03b9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03bf\u03ce\u03b8\u03b7\u03c3\u03b7 \u03a0\u03c9\u03bb\u03ae\u03c3\u03b5\u03c9\u03bd"
+    },
+    {
+        "code": "ODE212",
+        "department": 4,
+        "instructor": 6,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u0394\u0399\u0391\u03a7\u0395\u0399\u03a1\u0399\u03a3\u0397 \u0395\u03a0\u0395\u039d\u0394\u03a5\u03a3\u0395\u03a9\u039d"
+    },
+    {
+        "code": "ODE260",
+        "department": 4,
+        "instructor": 4,
+        "semester": 1,
+        "capacity": 2,
+        "course": "\u0394\u03b9\u03b5\u03b8\u03bd\u03b5\u03af\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03a3\u03c7\u03ad\u03c3\u03b5\u03b9\u03c2"
+    },
+    {
+        "code": "ODE175",
+        "department": 4,
+        "instructor": 1,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u0394\u0399\u039f\u0399\u039a\u0397\u03a3\u0397 \u0395\u03a6\u039f\u0394\u0399\u0391\u03a3\u03a4\u0399\u039a\u0397\u03a3 \u0391\u039b\u03a5\u03a3\u0399\u0394\u0391\u03a3 (LOGISTICS)"
+    },
+    {
+        "code": "ODE125",
+        "department": 4,
+        "instructor": 1,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u0394\u0399\u039f\u0399\u039a\u0397\u03a3\u0397 \u03a0\u0391\u03a1\u0391\u0393\u03a9\u0393\u0397\u03a3 &amp; \u03a5\u03a0\u0397\u03a1\u0395\u03a3\u0399\u03a9\u039d"
+    },
+    {
+        "code": "ODE320",
+        "department": 4,
+        "instructor": 7,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03a0\u03bf\u03bb\u03c5\u03b5\u03b8\u03bd\u03b9\u03ba\u03ad\u03c2 \u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2"
+    },
+    {
+        "code": "ODE113",
+        "department": 4,
+        "instructor": 8,
+        "semester": 6,
+        "capacity": 1,
+        "course": "\u0394\u03b9\u03bf\u03b9\u03ba\u03b7\u03c4\u03b9\u03ba\u03ae \u039b\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "ODE182",
+        "department": 4,
+        "instructor": 1,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u0395\u0399\u0394\u0399\u039a\u0391 \u0398\u0395\u039c\u0391\u03a4\u0391 \u0394\u0399\u039f\u0399\u039a\u0397\u03a3\u0397\u03a3 \u03a0\u0391\u03a1\u0391\u0393\u03a9\u0393\u0397\u03a3 &amp; \u03a5\u03a0\u0397\u03a1\u0395\u03a3\u0399\u03a9\u039d"
+    },
+    {
+        "code": "ODE146",
+        "department": 4,
+        "instructor": 9,
+        "semester": 8,
+        "capacity": 1,
+        "course": "\u0395\u0399\u03a3\u0391\u0393\u03a9\u0393\u0397 \u03a3\u03a4\u0397 \u039b\u039f\u0393\u0399\u03a3\u03a4\u0399\u039a\u0397"
+    },
+    {
+        "code": "ODE130",
+        "department": 4,
+        "instructor": 10,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u0395\u039b\u0395\u0393\u039a\u03a4\u0399\u039a\u0397 (\u039f\u0394\u0395 2719)"
+    },
+    {
+        "code": "ODE319",
+        "department": 4,
+        "instructor": 12,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u0395\u039c\u03a0\u039f\u03a1\u0399\u039a\u039f \u0394\u0399\u039a\u0391\u0399\u039f \u0399 (M-\u03a9)"
+    },
+    {
+        "code": "ODE233",
+        "department": 4,
+        "instructor": 11,
+        "semester": 5,
+        "capacity": 1,
+        "course": "\u0395\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03cc \u0394\u03af\u03ba\u03b1\u03b9\u03bf \u0399\u0399"
+    },
+    {
+        "code": "ODE278",
+        "department": 4,
+        "instructor": 13,
+        "semester": 6,
+        "capacity": 1,
+        "course": "\u0395\u039c\u03a0\u039f\u03a1\u0399\u039a\u039f \u0394\u0399\u039a\u0391\u0399\u039f \u0399\u0399 (\u0395\u03a4\u0391\u0399\u03a1\u0399\u0395\u03a3)"
+    },
+    {
+        "code": "ODE177",
+        "department": 4,
+        "instructor": 14,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u0395\u03c0\u03b1\u03bd\u03b1\u03c3\u03c7\u03b5\u03b4\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u0395\u03c0\u03b9\u03c7\u03b5\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03b9\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03b1\u03ba\u03ac \u03a3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1"
+    },
+    {
+        "code": "ODE216",
+        "department": 4,
+        "instructor": 15,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0395\u03c1\u03b3\u03b1\u03c4\u03b9\u03ba\u03cc \u0394\u03af\u03ba\u03b1\u03b9\u03bf"
+    },
+    {
+        "code": "ODE323",
+        "department": 4,
+        "instructor": 16,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u0395\u03a1\u0395\u03a5\u039d\u0391 \u039c\u0391\u03a1\u039a\u0395\u03a4\u0399\u039d\u0393\u039a"
+    },
+    {
+        "code": "ODE198",
+        "department": 4,
+        "instructor": 17,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u039b\u039f\u0393\u0399\u03a3\u03a4\u0399\u039a\u0391 \u03a3\u03a7\u0395\u0394\u0399\u0391"
+    },
+    {
+        "code": "ODE137",
+        "department": 4,
+        "instructor": 9,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u039b\u039f\u0393\u0399\u03a3\u03a4\u0399\u039a\u0397 1 \u0393\u0399\u0391 \u039c\u0395\u03a4\u0391\u03a0\u03a4\u03a5\u03a7\u0399\u0391\u039a\u039f \u03a0\u03a1\u039f\u0393\u03a1\u0391\u039c\u039c\u0391 \u039c\u0395\u03a4\u0391\u03a0\u03a4\u03a5\u03a7\u0399\u0391\u039a\u0391 \u03a4\u0397\u03a3 \u0391\u0393\u039f\u03a1\u0391\u03a3 \u039a\u0391\u0399 \u03a4\u0397\u03c2 \u03a0\u0391\u03a1\u0391\u0393\u03a9\u0393\u0397\u03a3"
+    },
+    {
+        "code": "ODE259",
+        "department": 4,
+        "instructor": 4,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u039c\u03b1\u03ba\u03c1\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "ODE164",
+        "department": 4,
+        "instructor": 18,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u039c\u03ac\u03c1\u03ba\u03b5\u03c4\u03b9\u03bd\u03b3\u03ba \u03a0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03c9\u03bd \u03a5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2"
+    },
+    {
+        "code": "ODE149",
+        "department": 4,
+        "instructor": 19,
+        "semester": 4,
+        "capacity": 2,
+        "course": "\u039c\u03ac\u03c1\u03ba\u03b5\u03c4\u03b9\u03bd\u03b3\u03ba \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd"
+    },
+    {
+        "code": "ODE129",
+        "department": 4,
+        "instructor": 20,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u039c\u03ac\u03c1\u03ba\u03b5\u03c4\u03b9\u03bd\u03b3\u03ba \u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd"
+    },
+    {
+        "code": "ODE100",
+        "department": 4,
+        "instructor": 21,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u039c\u0399\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399 (\u039f\u0394\u0395 2113)"
+    },
+    {
+        "code": "ODE103",
+        "department": 4,
+        "instructor": 21,
+        "semester": 5,
+        "capacity": 3,
+        "course": "\u039c\u0399\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399\u0399 (\u039f\u0394\u0395 2418)"
+    },
+    {
+        "code": "ODE101",
+        "department": 4,
+        "instructor": 21,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u03a0\u039f\u03a3\u039f\u03a4\u0399\u039a\u0395\u03a3 \u039c\u0395\u0398\u039f\u0394\u039f\u0399 \u0399 (\u039f\u0394\u0395 2115)"
+    },
+    {
+        "code": "ODE318",
+        "department": 4,
+        "instructor": 21,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u03a0\u039f\u03a3\u039f\u03a4\u0399\u039a\u0395\u03a3 \u039c\u0395\u0398\u039f\u0394\u039f\u0399 \u0399\u0399 (\u039f\u0394\u0395 2216)"
+    },
+    {
+        "code": "ODE127",
+        "department": 4,
+        "instructor": 4,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u03a0\u03bf\u03c3\u03bf\u03c4\u03b9\u03ba\u03ad\u03c2 \u039c\u03ad\u03b8\u03bf\u03b4\u03bf\u03b9 \u0399\u0399\u0399 - \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1"
+    },
+    {
+        "code": "ODE116",
+        "department": 4,
+        "instructor": 22,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a0\u03bf\u03c3\u03bf\u03c4\u03b9\u03ba\u03ad\u03c2 \u039c\u03ad\u03b8\u03bf\u03b4\u03bf\u03b9 \u0399\u0399\u0399 - \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1, \u039c-\u03a9"
+    },
+    {
+        "code": "ODE161",
+        "department": 4,
+        "instructor": 23,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u03a0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03bc\u03ad\u03bd\u03b7 \u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u039b\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "ODE256",
+        "department": 4,
+        "instructor": 14,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u03a3\u03c5\u03c3\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd"
+    },
+    {
+        "code": "ODE104",
+        "department": 4,
+        "instructor": 24,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u03a3\u03a4\u03a1\u0391\u03a4\u0397\u0393\u0399\u039a\u039f\u03a3 \u03a3\u03a7\u0395\u0394\u0399\u0391\u03a3\u039c\u039f\u03a3 \u039c\u0391\u03a1\u039a\u0395\u03a4\u0399\u039d\u0393\u039a (\u039f\u0394\u0395 2735)"
+    },
+    {
+        "code": "ODE180",
+        "department": 4,
+        "instructor": 25,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u03a3\u03a5\u039c\u03a0\u0395\u03a1\u0399\u03a6\u039f\u03a1\u0391 \u039a\u0391\u03a4\u0391\u039d\u0391\u039b\u03a9\u03a4\u0397 (\u039c\u0391\u03a1\u039a\u0395\u03a4\u0399\u039d\u0393\u039a \u0399\u0399 - \u039f\u0394\u0395 2414)"
+    },
+    {
+        "code": "ODE215",
+        "department": 4,
+        "instructor": 3,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u03a3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03c6\u03bf\u03c1\u03ac \u039a\u03b1\u03c4\u03b1\u03bd\u03b1\u03bb\u03c9\u03c4\u03ae (\u039c\u03ac\u03c1\u03ba\u03b5\u03c4\u03b9\u03bd\u03b3\u03ba \u0399\u0399)"
+    },
+    {
+        "code": "ODE199",
+        "department": 4,
+        "instructor": 14,
+        "semester": 1,
+        "capacity": 2,
+        "course": "\u03a3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03a3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7\u03c2 \u0391\u03c0\u03bf\u03c6\u03ac\u03c3\u03b5\u03c9\u03bd"
+    },
+    {
+        "code": "ODE209",
+        "department": 4,
+        "instructor": 6,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u03a7\u03a1\u0397\u039c\u0391\u03a4\u039f\u0394\u039f\u03a4\u0399\u039a\u0397 \u0394\u0399\u039f\u0399\u039a\u0397\u03a3\u0397 1"
+    },
+    {
+        "code": "ODE202",
+        "department": 4,
+        "instructor": 26,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u03a7\u03a1\u0397\u039c\u0391\u03a4\u039f\u0394\u039f\u03a4\u0399\u039a\u0397 \u0394\u0399\u039f\u0399\u039a\u0397\u03a3\u0397 \u0399\u0399"
+    },
+    {
+        "code": "OIK165",
+        "department": 2,
+        "instructor": 27,
+        "semester": 7,
+        "capacity": 3,
+        "course": "ECONOMETRICS STUDY GROUP"
+    },
+    {
+        "code": "OIK149",
+        "department": 2,
+        "instructor": 28,
+        "semester": 4,
+        "capacity": 2,
+        "course": "Erasmus General Economic History"
+    },
+    {
+        "code": "OIK260",
+        "department": 2,
+        "instructor": 29,
+        "semester": 4,
+        "capacity": 3,
+        "course": "PRINCIPLES OF SOCIOLOGY"
+    },
+    {
+        "code": "OIK217",
+        "department": 2,
+        "instructor": 30,
+        "semester": 5,
+        "capacity": 1,
+        "course": "SEMINAL TEXTS IN ENTREPRENEURSHIP"
+    },
+    {
+        "code": "OIK116",
+        "department": 2,
+        "instructor": 31,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b1\u03b3\u03bf\u03c1\u03ce\u03bd \u03ba\u03b1\u03b9 \u039a\u03b5\u03c6\u03b1\u03bb\u03b1\u03b9\u03b1\u03b3\u03bf\u03c1\u03ce\u03bd"
+    },
+    {
+        "code": "OIK157",
+        "department": 2,
+        "instructor": 32,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0391\u03a1\u03a7\u0395\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397\u03a3 \u0395\u03a0\u0399\u03a3\u03a4\u0397\u039c\u0397\u03a3"
+    },
+    {
+        "code": "OIK158",
+        "department": 2,
+        "instructor": 33,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u0392\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ae \u039f\u03c1\u03b3\u03ac\u03bd\u03c9\u03c3\u03b7"
+    },
+    {
+        "code": "OIK143",
+        "department": 2,
+        "instructor": 35,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0399\u0399"
+    },
+    {
+        "code": "OIK196",
+        "department": 2,
+        "instructor": 36,
+        "semester": 5,
+        "capacity": 1,
+        "course": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "OIK177",
+        "department": 2,
+        "instructor": 34,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1"
+    },
+    {
+        "code": "OIK124",
+        "department": 2,
+        "instructor": 37,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u0398\u0395\u03a9\u03a1\u0399\u0391 \u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397\u03a3"
+    },
+    {
+        "code": "OIK125",
+        "department": 2,
+        "instructor": 38,
+        "semester": 1,
+        "capacity": 2,
+        "course": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03b3\u03b9\u03b1 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5\u03c2 \u0399"
+    },
+    {
+        "code": "OIK228",
+        "department": 2,
+        "instructor": 39,
+        "semester": 6,
+        "capacity": 2,
+        "course": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u0393\u03b9\u03b1 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5\u03c2 \u0399\u0399\u0399"
+    },
+    {
+        "code": "OIK246",
+        "department": 2,
+        "instructor": 27,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391 \u0399\u0399 (2016)"
+    },
+    {
+        "code": "OIK194",
+        "department": 2,
+        "instructor": 40,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u039c\u03b1\u03ba\u03c1\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u0399"
+    },
+    {
+        "code": "OIK137",
+        "department": 2,
+        "instructor": 41,
+        "semester": 4,
+        "capacity": 2,
+        "course": "\u039d\u039f\u039c\u0399\u03a3\u039c\u0391\u03a4\u0399\u039a\u0397 \u0398\u0395\u03a9\u03a1\u0399\u0391 \u039a\u0391\u0399 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397"
+    },
+    {
+        "code": "OIK129",
+        "department": 2,
+        "instructor": 34,
+        "semester": 4,
+        "capacity": 2,
+        "course": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0399\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2"
+    },
+    {
+        "code": "OIK253",
+        "department": 2,
+        "instructor": 42,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u03a3\u03a4\u0391\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397 2016-17"
+    },
+    {
+        "code": "OIK229",
+        "department": 2,
+        "instructor": 39,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u0399\u0399"
+    },
+    {
+        "code": "OIK213",
+        "department": 2,
+        "instructor": 27,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u03a3\u03a4\u0391\u03a4\u0399\u03a3\u03a4\u0399\u039a\u0397 \u0399\u0399 2015"
+    },
+    {
+        "code": "OIK142",
+        "department": 2,
+        "instructor": 43,
+        "semester": 1,
+        "capacity": 2,
+        "course": "\u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03c9\u03bd"
+    },
+    {
+        "code": "INF133",
+        "department": 7,
+        "instructor": 44,
+        "semester": 1,
+        "capacity": 2,
+        "course": "Elementary Mathematics of Finance - Reading Course for Erasmus Students"
+    },
+    {
+        "code": "INF132",
+        "department": 7,
+        "instructor": 45,
+        "semester": 6,
+        "capacity": 3,
+        "course": "Operations Research - Reading Course for Erasmus Students"
+    },
+    {
+        "code": "INF161",
+        "department": 7,
+        "instructor": 46,
+        "semester": 2,
+        "capacity": 2,
+        "course": "\u0391\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9"
+    },
+    {
+        "code": "INF261",
+        "department": 7,
+        "instructor": 47,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03a3\u03c7\u03b5\u03b4\u03af\u03b1\u03c3\u03b7 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03b1\u03ba\u03ce\u03bd \u03a3\u03c5\u03c3\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd"
+    },
+    {
+        "code": "INF118",
+        "department": 7,
+        "instructor": 45,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u0391\u03be\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c3\u03b7 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03bc\u03b5 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03c3\u03c4\u03b7\u03bd \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "INF104",
+        "department": 7,
+        "instructor": 48,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u0394\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd"
+    },
+    {
+        "code": "INF145",
+        "department": 7,
+        "instructor": 49,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u0391\u03a3\u03a6\u0391\u039b\u0399\u03a3\u03a4\u0399\u039a\u0391  \u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391"
+    },
+    {
+        "code": "INF148",
+        "department": 7,
+        "instructor": 50,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u0391\u03a5\u03a4\u039f\u039c\u0391\u03a4\u0391 \u039a\u0391\u0399 \u03a0\u039f\u039b\u03a5\u03a0\u039b\u039f\u039a\u039f\u03a4\u0397\u03a4\u0391"
+    },
+    {
+        "code": "INF196",
+        "department": 7,
+        "instructor": 51,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u0392\u0391\u03a3\u0395\u0399\u03a3 \u0394\u0395\u0394\u039f\u039c\u0395\u039d\u03a9\u039d (\u0393\u0395\u039d\u0399\u039a\u0395\u03a3 \u03a0\u039b\u0397\u03a1\u039f\u03a6\u039f\u03a1\u0399\u0395\u03a3)"
+    },
+    {
+        "code": "INF159",
+        "department": 7,
+        "instructor": 52,
+        "semester": 6,
+        "capacity": 1,
+        "course": "\u0392\u0391\u03a3\u0395\u0399\u03a3 \u0394\u0395\u0394\u039f\u039c\u0395\u039d\u03a9\u039d - \u03a4\u039c\u0397\u039c\u0391 \u0399 (A-\u039b)"
+    },
+    {
+        "code": "INF143",
+        "department": 7,
+        "instructor": 53,
+        "semester": 4,
+        "capacity": 2,
+        "course": "\u0393\u03c1\u03b1\u03c6\u03b9\u03ba\u03ac \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd"
+    },
+    {
+        "code": "INF117",
+        "department": 7,
+        "instructor": 54,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u0394\u0399\u0391\u039a\u03a1\u0399\u03a4\u0391 \u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391"
+    },
+    {
+        "code": "INF119",
+        "department": 7,
+        "instructor": 55,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u0394\u03af\u03ba\u03c4\u03c5\u03b1 \u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd"
+    },
+    {
+        "code": "INF115",
+        "department": 7,
+        "instructor": 56,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0394\u03bf\u03bc\u03ad\u03c2 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd 2009-2010"
+    },
+    {
+        "code": "INF231",
+        "department": 7,
+        "instructor": 56,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0394\u03bf\u03bc\u03ad\u03c2 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd 2016-2017"
+    },
+    {
+        "code": "INF171",
+        "department": 7,
+        "instructor": 57,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0395\u03b9\u03b4\u03b9\u03ba\u03ac \u0398\u03ad\u03bc\u03b1\u03c4\u03b1 \u0391\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd"
+    },
+    {
+        "code": "INF238",
+        "department": 7,
+        "instructor": 58,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0395\u0399\u0394\u0399\u039a\u0391 \u0398\u0395\u039c\u0391\u03a4\u0391 \u0394\u0399\u0391\u039a\u03a1\u0399\u03a4\u03a9\u039d \u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u03a9\u039d"
+    },
+    {
+        "code": "INF209",
+        "department": 7,
+        "instructor": 59,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u0395\u03b9\u03b4\u03b9\u03ba\u03ac \u03b8\u03ad\u03bc\u03b1\u03c4\u03b1 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03c3\u03b9\u03b1\u03ba\u03ae\u03c2 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2"
+    },
+    {
+        "code": "INF111",
+        "department": 7,
+        "instructor": 60,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u0395\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c3\u03c4\u03b7\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7 \u03c4\u03c9\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd"
+    },
+    {
+        "code": "INF259",
+        "department": 7,
+        "instructor": 61,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u0395\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c3\u03c4\u03bf\u03bd \u03a0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03cc \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd"
+    },
+    {
+        "code": "INF241",
+        "department": 7,
+        "instructor": 62,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u0395\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ac \u0395\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03b1 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 (CSlabs)"
+    },
+    {
+        "code": "INF131",
+        "department": 7,
+        "instructor": 63,
+        "semester": 6,
+        "capacity": 2,
+        "course": "\u0395\u039e\u039f\u03a1\u03a5\u039e\u0397 \u0393\u039d\u03a9\u03a3\u0397\u03a3 \u0391\u03a0\u039f \u0392. \u0394. &amp; \u03a0. \u0399\u03a3\u03a4\u039f (DATA SCIENCE &amp; WEB MINING))"
+    },
+    {
+        "code": "INF144",
+        "department": 7,
+        "instructor": 64,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u0391\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 - \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae"
+    },
+    {
+        "code": "INF114",
+        "department": 7,
+        "instructor": 65,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03c3\u03b9\u03b1\u03ba\u03ae \u0388\u03c1\u03b5\u03c5\u03bd\u03b1"
+    },
+    {
+        "code": "INF319",
+        "department": 7,
+        "instructor": 66,
+        "semester": 2,
+        "capacity": 2,
+        "course": "\u0395\u03a6\u0391\u03a1\u039c\u039f\u03a3\u039c\u0395\u039d\u0395\u03a3 \u03a0\u0399\u0398\u0391\u039d\u039f\u03a4\u0397\u03a4\u0395\u03a3 \u039a\u0391\u0399 \u03a0\u03a1\u039f\u03a3\u039f\u039c\u039f\u0399\u03a9\u03a3\u0397"
+    },
+    {
+        "code": "INF195",
+        "department": 7,
+        "instructor": 67,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03a0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03bf\u03c3\u03bf\u03bc\u03bf\u03af\u03c9\u03c3\u03b7"
+    },
+    {
+        "code": "INF220",
+        "department": 7,
+        "instructor": 56,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03a0\u03b1\u03b9\u03b3\u03bd\u03af\u03c9\u03bd \u03ba\u03b1\u03b9 \u0391\u03c0\u03bf\u03c6\u03ac\u03c3\u03b5\u03c9\u03bd 2016"
+    },
+    {
+        "code": "INF242",
+        "department": 7,
+        "instructor": 68,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2"
+    },
+    {
+        "code": "INF308",
+        "department": 7,
+        "instructor": 69,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u039a\u0391\u03a4\u0391\u039d\u0395\u039c\u0397\u039c\u0395\u039d\u0391 \u03a3\u03a5\u03a3\u03a4\u0397\u039c\u0391\u03a4\u0391 - \u0395\u0391\u03a1\u0399\u039d\u039f \u0395\u039e\u0391\u039c\u0397\u039d\u039f 2016"
+    },
+    {
+        "code": "INF237",
+        "department": 7,
+        "instructor": 69,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u039a\u0391\u03a4\u0391\u039d\u0395\u039c\u0397\u039c\u0395\u039d\u0391 \u03a3\u03a5\u03a3\u03a4\u0397\u039c\u0391\u03a4\u0391 2011-2012"
+    },
+    {
+        "code": "INF168",
+        "department": 7,
+        "instructor": 70,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u039b\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03ba\u03ac \u03a3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1"
+    },
+    {
+        "code": "INF146",
+        "department": 7,
+        "instructor": 50,
+        "semester": 8,
+        "capacity": 1,
+        "course": "\u039b\u039f\u0393\u0399\u039a\u0397"
+    },
+    {
+        "code": "INF285",
+        "department": 7,
+        "instructor": 71,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u039b\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae (\u039c-\u03a9)"
+    },
+    {
+        "code": "INF169",
+        "department": 7,
+        "instructor": 72,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391  \u0399\u0399"
+    },
+    {
+        "code": "INF112",
+        "department": 7,
+        "instructor": 68,
+        "semester": 6,
+        "capacity": 1,
+        "course": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u0399"
+    },
+    {
+        "code": "INF113",
+        "department": 7,
+        "instructor": 73,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u03a0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u039c-\u03a9"
+    },
+    {
+        "code": "INF232",
+        "department": 7,
+        "instructor": 74,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u03a0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03bc\u03b5 C++"
+    },
+    {
+        "code": "INF252",
+        "department": 7,
+        "instructor": 75,
+        "semester": 6,
+        "capacity": 2,
+        "course": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03c3\u03c4\u03b7\u03bd \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "INF216",
+        "department": 7,
+        "instructor": 52,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a3\u03a7\u0395\u0394\u0399\u0391\u03a3\u039c\u039f\u03a3 \u0392\u0391\u03a3\u0395\u03a9\u039d \u0394\u0395\u0394\u039f\u039c\u0395\u039d\u03a9\u039d"
+    },
+    {
+        "code": "INF153",
+        "department": 7,
+        "instructor": 64,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a4\u03b5\u03c7\u03bd\u03b7\u03c4\u03ae \u039d\u03bf\u03b7\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7"
+    },
+    {
+        "code": "INF179",
+        "department": 7,
+        "instructor": 70,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03a0\u03bf\u03bb\u03c5\u03bc\u03ad\u03c3\u03c9\u03bd"
+    },
+    {
+        "code": "INF255",
+        "department": 7,
+        "instructor": 76,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "STAT105",
+        "department": 8,
+        "instructor": 77,
+        "semester": 8,
+        "capacity": 2,
+        "course": "\u0391\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03a3\u03c5\u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ce\u03bd \u03c4\u03bc\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2"
+    },
+    {
+        "code": "STAT154",
+        "department": 8,
+        "instructor": 78,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03a7\u03c1\u03bf\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ce\u03bd \u03a3\u03b5\u03b9\u03c1\u03ce\u03bd"
+    },
+    {
+        "code": "STAT120",
+        "department": 8,
+        "instructor": 79,
+        "semester": 7,
+        "capacity": 3,
+        "course": "\u0393\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b1 \u0393\u03c1\u03b1\u03bc\u03bc\u03b9\u03ba\u03ac \u039c\u03bf\u03bd\u03c4\u03ad\u03bb\u03b1"
+    },
+    {
+        "code": "STAT207",
+        "department": 8,
+        "instructor": 80,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0393\u03c1\u03b1\u03bc\u03bc\u03b9\u03ba\u03ae \u0386\u03bb\u03b3\u03b5\u03b2\u03c1\u03b1 \u0399"
+    },
+    {
+        "code": "STAT150",
+        "department": 8,
+        "instructor": 81,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u0393\u03c1\u03b1\u03bc\u03bc\u03b9\u03ba\u03ae \u0386\u03bb\u03b3\u03b5\u03b2\u03c1\u03b1 \u03ba\u03b1\u03b9 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2"
+    },
+    {
+        "code": "STAT138",
+        "department": 8,
+        "instructor": 83,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c1\u03af\u03c3\u03ba\u03bf\u03c5 \u0399\u0399"
+    },
+    {
+        "code": "STAT162",
+        "department": 8,
+        "instructor": 84,
+        "semester": 1,
+        "capacity": 1,
+        "course": "\u0395\u0399\u03a3\u0391\u0393\u03a9\u0393\u0397 \u03a3\u03a4\u0397\u039d \u0395\u03a0\u0399\u03a7\u0395\u0399\u03a1\u0397\u03a3\u0399\u0391\u039a\u0397 \u0395\u03a1\u0395\u03a5\u039d\u0391"
+    },
+    {
+        "code": "STAT134",
+        "department": 8,
+        "instructor": 85,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u0395\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c3\u03c4\u03b9\u03c2 \u03a0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2"
+    },
+    {
+        "code": "STAT176",
+        "department": 8,
+        "instructor": 86,
+        "semester": 5,
+        "capacity": 3,
+        "course": "\u0395\u03ba\u03c4\u03b9\u03bc\u03b7\u03c4\u03b9\u03ba\u03ae &amp; \u0388\u03bb\u03b5\u03b3\u03c7\u03bf\u03b9 \u03a5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd (\u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03cc \u0395\u03be\u03ac\u03bc\u03b7\u03bd\u03bf)"
+    },
+    {
+        "code": "STAT117",
+        "department": 8,
+        "instructor": 87,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u039c\u03bf\u03bd\u03c4\u03ad\u03bb\u03c9\u03bd \u03c3\u03c4\u03b1 \u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ac"
+    },
+    {
+        "code": "STAT184",
+        "department": 8,
+        "instructor": 85,
+        "semester": 6,
+        "capacity": 2,
+        "course": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u039c\u03ad\u03c4\u03c1\u03bf\u03c5"
+    },
+    {
+        "code": "STAT137",
+        "department": 8,
+        "instructor": 89,
+        "semester": 1,
+        "capacity": 2,
+        "course": "\u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u03a0\u03b9\u03b8\u03b1\u03bd\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd"
+    },
+    {
+        "code": "STAT100",
+        "department": 8,
+        "instructor": 90,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u039f\u03a3 \u039b\u039f\u0393\u0399\u03a3\u039c\u039f\u03a3 \u0399"
+    },
+    {
+        "code": "STAT101",
+        "department": 8,
+        "instructor": 90,
+        "semester": 2,
+        "capacity": 3,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u039f\u03a3 \u039b\u039f\u0393\u0399\u03a3\u039c\u039f\u03a3 \u0399\u0399"
+    },
+    {
+        "code": "STAT102",
+        "department": 8,
+        "instructor": 91,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u039b\u03bf\u03b3\u03b9\u03c3\u03bc\u03cc\u03c2 \u0399\u0399\u0399"
+    },
+    {
+        "code": "STAT118",
+        "department": 8,
+        "instructor": 87,
+        "semester": 3,
+        "capacity": 3,
+        "course": "\u039c\u03b7 \u03a0\u03b1\u03c1\u03b1\u03bc\u03b5\u03c4\u03c1\u03b9\u03ba\u03ae \u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "STAT188",
+        "department": 8,
+        "instructor": 84,
+        "semester": 1,
+        "capacity": 3,
+        "course": "\u03a0\u0399\u0398\u0391\u039d\u039f\u03a4\u0397\u03a4\u0395\u03a3 \u0399"
+    },
+    {
+        "code": "STAT201",
+        "department": 8,
+        "instructor": 92,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u03a0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u0399\u0399"
+    },
+    {
+        "code": "STAT199",
+        "department": 8,
+        "instructor": 93,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u039c\u03ad\u03b8\u03bf\u03b4\u03bf\u03b9 \u0394\u03b5\u03b9\u03b3\u03bc\u03b1\u03c4\u03bf\u03bb\u03b7\u03c8\u03af\u03b1\u03c2"
+    },
+    {
+        "code": "STAT126",
+        "department": 8,
+        "instructor": 91,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u03a3\u03c4\u03bf\u03c7\u03b1\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u0391\u03bd\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2"
+    },
+    {
+        "code": "STAT195",
+        "department": 8,
+        "instructor": 92,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u03a3\u03c4\u03bf\u03c7\u03b1\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b5\u03c2 \u0399\u0399 - \u039c\u03b1\u03c1\u03ba\u03bf\u03b2\u03b9\u03b1\u03bd\u03ad\u03c2 \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b5\u03c2"
+    },
+    {
+        "code": "DEOS130",
+        "department": 1,
+        "instructor": 94,
+        "semester": 6,
+        "capacity": 2,
+        "course": "Applied Econometrics (Efarmosmenh Oikonometria)"
+    },
+    {
+        "code": "DEOS131",
+        "department": 1,
+        "instructor": 94,
+        "semester": 6,
+        "capacity": 2,
+        "course": "Die8neis kefalaiagores &amp; xrhmatagores"
+    },
+    {
+        "code": "DEOS204",
+        "department": 1,
+        "instructor": 95,
+        "semester": 8,
+        "capacity": 1,
+        "course": "Economics of EU Competition Policy"
+    },
+    {
+        "code": "DEOS234",
+        "department": 1,
+        "instructor": 96,
+        "semester": 2,
+        "capacity": 3,
+        "course": "ERASMUS- EU POLITICS AND GOVERNMENT"
+    },
+    {
+        "code": "DEOS140",
+        "department": 1,
+        "instructor": 97,
+        "semester": 2,
+        "capacity": 1,
+        "course": "LEGAL ASPECTS OF EUROPEAN INTEGRATION"
+    },
+    {
+        "code": "DEOS137",
+        "department": 1,
+        "instructor": 98,
+        "semester": 2,
+        "capacity": 1,
+        "course": "MAK\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0395\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0395\u03a3 \u03a4\u0397\u03a3 \u0395\u0395"
+    },
+    {
+        "code": "DEOS228",
+        "department": 1,
+        "instructor": 99,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u0394\u0397\u039c\u039f\u03a3\u0399\u0391 \u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397"
+    },
+    {
+        "code": "DEOS163",
+        "department": 1,
+        "instructor": 100,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03a7\u03b1\u03c1\u03c4\u03bf\u03c6\u03c5\u03bb\u03b1\u03ba\u03af\u03bf\u03c5"
+    },
+    {
+        "code": "DEOS128",
+        "department": 1,
+        "instructor": 101,
+        "semester": 8,
+        "capacity": 2,
+        "course": "\u0394\u03b9\u03b5\u03b8\u03bd\u03b5\u03af\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03bf\u03af"
+    },
+    {
+        "code": "DEOS122",
+        "department": 1,
+        "instructor": 102,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u0394\u0399\u0395\u0398\u039d\u0397\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397 \u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u0391"
+    },
+    {
+        "code": "DEOS229",
+        "department": 1,
+        "instructor": 103,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u0394\u03af\u03ba\u03b1\u03b9\u03bf \u0391\u03bd\u03c4\u03b1\u03b3\u03c9\u03bd\u03b9\u03c3\u03bc\u03bf\u03cd \u03ba\u03b1\u03b9 \u0395\u03c0\u03bf\u03c0\u03c4\u03b5\u03af\u03b1\u03c2 \u0391\u03b3\u03bf\u03c1\u03ce\u03bd \u0395\u0395"
+    },
+    {
+        "code": "DEOS127",
+        "department": 1,
+        "instructor": 101,
+        "semester": 8,
+        "capacity": 1,
+        "course": "\u0395\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c3\u03c4\u03b7\u03bd \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u0394\u03b9\u03b5\u03b8\u03bd\u03b5\u03af\u03c2 \u03a3\u03c7\u03ad\u03c3\u03b5\u03b9\u03c2"
+    },
+    {
+        "code": "DEOS166",
+        "department": 1,
+        "instructor": 104,
+        "semester": 5,
+        "capacity": 3,
+        "course": "\u0395\u039e\u03a9\u03a4\u0395\u03a1\u0399\u039a\u0395\u03a3 \u03a3\u03a7\u0395\u03a3\u0395\u0399\u03a3 \u0395\u0395"
+    },
+    {
+        "code": "DEOS211",
+        "department": 1,
+        "instructor": 105,
+        "semester": 4,
+        "capacity": 3,
+        "course": "\u0398\u0395\u039c\u0391\u03a4\u0391 \u0394\u0399\u0395\u0398\u039d\u039f\u03a5\u03a3 \u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u0391\u03a3"
+    },
+    {
+        "code": "DEOS249",
+        "department": 1,
+        "instructor": 106,
+        "semester": 2,
+        "capacity": 1,
+        "course": "\u0398\u0395\u03a9\u03a1\u0399\u0391 &amp; \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397 \u0394\u0399\u0395\u0398\u039d\u039f\u03a5\u03a3 \u0395\u039c\u03a0\u039f\u03a1\u0399\u039f\u03a5"
+    },
+    {
+        "code": "DEOS218",
+        "department": 1,
+        "instructor": 107,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391 \u0399"
+    },
+    {
+        "code": "DEOS106",
+        "department": 1,
+        "instructor": 108,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u039c\u0391\u0398\u0397\u039c\u0391\u03a4\u0399\u039a\u0391 \u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u03a9\u039d \u0395\u03a0\u0399\u03a3\u03a4\u0397\u039c\u03a9\u039d 3"
+    },
+    {
+        "code": "DEOS157",
+        "department": 1,
+        "instructor": 98,
+        "semester": 6,
+        "capacity": 3,
+        "course": "\u039c\u0391\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 II"
+    },
+    {
+        "code": "DEOS188",
+        "department": 1,
+        "instructor": 109,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u039c\u0391\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399"
+    },
+    {
+        "code": "DEOS258",
+        "department": 1,
+        "instructor": 110,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u039c\u03b9\u03ba\u03c1\u03bf\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0398\u03b5\u03c9\u03c1\u03af\u03b1 2-2016-2017"
+    },
+    {
+        "code": "DEOS108",
+        "department": 1,
+        "instructor": 111,
+        "semester": 8,
+        "capacity": 2,
+        "course": "\u039c\u0399\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399"
+    },
+    {
+        "code": "DEOS180",
+        "department": 1,
+        "instructor": 112,
+        "semester": 4,
+        "capacity": 2,
+        "course": "\u039c\u0399\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399\u0399"
+    },
+    {
+        "code": "DEOS190",
+        "department": 1,
+        "instructor": 112,
+        "semester": 7,
+        "capacity": 1,
+        "course": "\u039c\u0399\u039a\u03a1\u039f\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0399\u039a\u0397 \u0399\u0399\u0399"
+    },
+    {
+        "code": "DEOS152",
+        "department": 1,
+        "instructor": 113,
+        "semester": 2,
+        "capacity": 2,
+        "course": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b5\u03c4\u03c1\u03af\u03b1 \u0399 - 3\u03bf \u03b5\u03be\u03ac\u03bc\u03b7\u03bd\u03bf"
+    },
+    {
+        "code": "DEOS142",
+        "department": 1,
+        "instructor": 114,
+        "semester": 5,
+        "capacity": 1,
+        "course": "\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0395\u03a4\u03a1\u0399\u0391 \u0399\u0399"
+    },
+    {
+        "code": "DEOS208",
+        "department": 1,
+        "instructor": 94,
+        "semester": 6,
+        "capacity": 1,
+        "course": "\u039f\u0399\u039a\u039f\u039d\u039f\u039c\u0395\u03a4\u03a1\u0399\u039a\u0395\u03a3 \u0395\u03a6\u0391\u03a1\u039c\u039f\u0393\u0395\u03a3"
+    },
+    {
+        "code": "DEOS144",
+        "department": 1,
+        "instructor": 111,
+        "semester": 7,
+        "capacity": 2,
+        "course": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7"
+    },
+    {
+        "code": "DEOS139",
+        "department": 1,
+        "instructor": 115,
+        "semester": 4,
+        "capacity": 1,
+        "course": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03ba\u03b1\u03b9 \u0394\u03b9\u03b1\u03c1\u03b8\u03c1\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u0388\u03bd\u03c9\u03c3\u03b7\u03c2"
+    },
+    {
+        "code": "DEOS123",
+        "department": 1,
+        "instructor": 32,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0397 \u039f\u039b\u039f\u039a\u039b\u0397\u03a1\u03a9\u03a3\u0397 \u03a3\u03a4\u0397\u039d \u0395\u0395"
+    },
+    {
+        "code": "DEOS158",
+        "department": 1,
+        "instructor": 116,
+        "semester": 5,
+        "capacity": 2,
+        "course": "\u03a3\u03c5\u03b3\u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae"
+    },
+    {
+        "code": "DEOS162",
+        "department": 1,
+        "instructor": 32,
+        "semester": 3,
+        "capacity": 2,
+        "course": "\u03a3\u03a5\u0393\u03a7\u03a1\u039f\u039d\u0397 \u0395\u03a5\u03a1\u03a9\u03a0\u0391\u03aa\u039a\u0397 \u0399\u03a3\u03a4\u039f\u03a1\u0399\u0391"
+    },
+    {
+        "code": "DEOS217",
+        "department": 1,
+        "instructor": 99,
+        "semester": 8,
+        "capacity": 3,
+        "course": "\u03a6\u039f\u03a1\u039f\u039b\u039f\u0393\u0399\u039a\u0395\u03a3 \u03a0\u039f\u039b\u0399\u03a4\u0399\u039a\u0395\u03a3"
+    },
+    {
+        "code": "DEOS252",
+        "department": 1,
+        "instructor": 117,
+        "semester": 3,
+        "capacity": 1,
+        "course": "\u03a6\u03bf\u03c1\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ad\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ad\u03c2"
+    },
+    {
+        "code": "DEOS172",
+        "department": 1,
+        "instructor": 100,
+        "semester": 2,
+        "capacity": 2,
+        "course": "\u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae"
+    }
+]

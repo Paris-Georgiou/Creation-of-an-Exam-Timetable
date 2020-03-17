@@ -1,0 +1,587 @@
+[
+    {
+        "code": 1,
+        "name": "MANIATIS PARASHOS",
+        "absence": []
+    },
+    {
+        "code": 2,
+        "name": "\u039a\u03a9\u039d\u03a3\u03a4\u0391\u039d\u03a4\u0399\u039d\u039f\u03a3 \u039a\u0391\u03a1\u0391\u039c\u0391\u039d\u0397\u03a3",
+        "absence": []
+    },
+    {
+        "code": 3,
+        "name": "ZARKADA ANNA",
+        "absence": []
+    },
+    {
+        "code": 4,
+        "name": "Vamvoukas Georgios",
+        "absence": []
+    },
+    {
+        "code": 5,
+        "name": "Georgios Panigirakis",
+        "absence": []
+    },
+    {
+        "code": 6,
+        "name": "DRAKOS ANASTASIOS",
+        "absence": []
+    },
+    {
+        "code": 7,
+        "name": "\u0394\u0397\u039c\u0397\u03a4\u03a1\u0397\u03a3 \u039c\u0391\u039d\u03a9\u039b\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 8,
+        "name": "\u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03ac\u03c2 \u0391\u03c5\u03b3\u03bf\u03c5\u03c3\u03c4\u03af\u03bd\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 9,
+        "name": "Papas Antonios",
+        "absence": []
+    },
+    {
+        "code": 10,
+        "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039a\u03b1\u03c1\u03b1\u03bc\u03ac\u03bd\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 11,
+        "name": "TARNANIDOY HRISTINA",
+        "absence": []
+    },
+    {
+        "code": 12,
+        "name": "ATHANASIOS KOULORIDAS",
+        "absence": []
+    },
+    {
+        "code": 13,
+        "name": "KOULORIDAS ATHANASIOS",
+        "absence": []
+    },
+    {
+        "code": 14,
+        "name": "Kardaras Dimitrios",
+        "absence": []
+    },
+    {
+        "code": 15,
+        "name": "Kouloridas Athanasios",
+        "absence": []
+    },
+    {
+        "code": 16,
+        "name": "Georgios Siomkos",
+        "absence": []
+    },
+    {
+        "code": 17,
+        "name": "\u03a3\u03a0\u0397\u039b\u0399\u03a9\u03a4\u0397 \u03a3\u03a4\u03a5\u039b\u0399\u0391\u039d\u0397",
+        "absence": []
+    },
+    {
+        "code": 18,
+        "name": "\u039a\u03b1\u03b8. \u0393. \u03a3\u03b9\u03ce\u03bc\u03ba\u03bf\u03c2 &amp;  \u0393. \u03a4\u03c3\u03b9\u03ac\u03bc\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 19,
+        "name": "Panigirakis Georgios",
+        "absence": []
+    },
+    {
+        "code": 20,
+        "name": "\u0386\u03bd\u03bd\u03b1 \u0396\u03b1\u03c1\u03ba\u03ac\u03b4\u03b1",
+        "absence": []
+    },
+    {
+        "code": 21,
+        "name": "\u039a\u03a9\u039d\u03a3\u03a4\u0391\u039d\u03a4\u0399\u039d\u039f\u03a3 \u039c\u03a0\u039f\u03a5\u03a1\u039b\u0391\u039a\u0397\u03a3",
+        "absence": []
+    },
+    {
+        "code": 22,
+        "name": "Sogiakas Basileios",
+        "absence": []
+    },
+    {
+        "code": 23,
+        "name": "GIANNOPOULOS GEORGIOS",
+        "absence": []
+    },
+    {
+        "code": 24,
+        "name": "Siomkos Georgios",
+        "absence": []
+    },
+    {
+        "code": 25,
+        "name": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a3\u03b9\u03ce\u03bc\u03ba\u03bf\u03c2, \u0391\u03b9\u03ba. \u0392\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+        "absence": []
+    },
+    {
+        "code": 26,
+        "name": "Diamantis Panagiotis",
+        "absence": []
+    },
+    {
+        "code": 27,
+        "name": "\u0395. \u0393. \u03a4\u03c3\u03b9\u03ce\u03bd\u03b1\u03c2",
+        "absence": []
+    },
+    {
+        "code": 28,
+        "name": "Pepelasis Ioanna",
+        "absence": []
+    },
+    {
+        "code": 29,
+        "name": "DIMITRIOS LALLAS",
+        "absence": []
+    },
+    {
+        "code": 30,
+        "name": "PEPELASI IOANNA",
+        "absence": []
+    },
+    {
+        "code": 31,
+        "name": "\u03a3\u03c0\u03cd\u03c1\u03bf\u03c2 \u03a0\u03b1\u03b3\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 32,
+        "name": "\u039c\u03a0\u039b\u0391\u0392\u039f\u03a5\u039a\u039f\u03a3 \u03a3\u03a0\u03a5\u03a1\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 33,
+        "name": "Katsoulakos Ioannis",
+        "absence": []
+    },
+    {
+        "code": 34,
+        "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b1 \u03a0\u03b5\u03c0\u03b5\u03bb\u03ac\u03c3\u03b7",
+        "absence": []
+    },
+    {
+        "code": 35,
+        "name": "ZAHARIAS ELEYUERIOS",
+        "absence": []
+    },
+    {
+        "code": 36,
+        "name": "ALOGOSKOYFIS GEORGIOS",
+        "absence": []
+    },
+    {
+        "code": 37,
+        "name": "\u0395\u03a5\u0391\u0393\u0393\u0395\u039b\u039f\u03a3 \u0392\u0391\u03a3\u0399\u039b\u0391\u03a4\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 38,
+        "name": "\u03a6\u03bb\u03c5\u03c4\u03b6\u03ac\u03bd\u03b7\u03c2 \u0397\u03bb\u03af\u03b1\u03c2, \u03a4\u03c3\u03bf\u03bc\u03af\u03b4\u03b7\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 39,
+        "name": "STYLIANOS ARVANITIS",
+        "absence": []
+    },
+    {
+        "code": 40,
+        "name": "\u0392\u03b1\u03c3\u03b9\u03bb\u03ac\u03c4\u03bf\u03c2 \u0395\u03c5\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 41,
+        "name": "KORLIRAS PANAGIOTIS",
+        "absence": []
+    },
+    {
+        "code": 42,
+        "name": "\u0395\u03a5\u0398\u03a5\u039c\u0399\u039f\u03a3 \u03a4\u03a3\u0399\u03a9\u039d\u0391\u03a3",
+        "absence": []
+    },
+    {
+        "code": 43,
+        "name": "PAGKRATIS SPYRIDON",
+        "absence": []
+    },
+    {
+        "code": 44,
+        "name": "Evangelos F. Magirou",
+        "absence": []
+    },
+    {
+        "code": 45,
+        "name": "Mageirou Evangelos",
+        "absence": []
+    },
+    {
+        "code": 46,
+        "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039c\u03ae\u03bb\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 47,
+        "name": "\u03a0\u03ac\u03bd\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 48,
+        "name": "MARIAS IOANNIS",
+        "absence": []
+    },
+    {
+        "code": 49,
+        "name": "\u03a3\u039f\u03a5\u039b\u0397\u03a3 \u0391\u039d\u0391\u03a3\u03a4\u0391\u03a3\u0399\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 50,
+        "name": "\u03a6\u039f\u03a5\u03a3\u03a4\u039f\u03a5\u039a\u039f\u03a5 \u0395\u03a5\u0393\u0395\u039d\u0399\u0391",
+        "absence": []
+    },
+    {
+        "code": 51,
+        "name": "Vassalos, Vasilis (\u0392\u03b1\u03c3\u03c3\u03ac\u03bb\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b7\u03c2)",
+        "absence": []
+    },
+    {
+        "code": 52,
+        "name": "Vazirgiannis Michael",
+        "absence": []
+    },
+    {
+        "code": 53,
+        "name": "\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u03a0\u0391\u03a0\u0391\u03aa\u03a9\u0391\u039d\u039d\u039f\u03a5",
+        "absence": []
+    },
+    {
+        "code": 54,
+        "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3 \u039a\u0391\u03a4\u0395\u03a1\u0399\u039d\u0397\u03a3",
+        "absence": []
+    },
+    {
+        "code": 55,
+        "name": "\u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 56,
+        "name": "MARKAKIS EVANGELOS",
+        "absence": []
+    },
+    {
+        "code": 57,
+        "name": "\u0399. \u039c\u03ae\u03bb\u03b7\u03c2, \u0395. \u039c\u03b1\u03c1\u03ba\u03ac\u03ba\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 58,
+        "name": "Katerinis Panagiotis",
+        "absence": []
+    },
+    {
+        "code": 59,
+        "name": "DIMAKIS ANTONIS",
+        "absence": []
+    },
+    {
+        "code": 60,
+        "name": "\u0399\u03bf\u03c1\u03b4\u03ac\u03bd\u03b7\u03c2 \u039a\u03bf\u03c5\u03c4\u03c3\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 61,
+        "name": "\u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u03a4\u03af\u03c4\u03c3\u03b9\u03b1\u03c2",
+        "absence": []
+    },
+    {
+        "code": 62,
+        "name": "\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u039a. \u03a0\u039f\u039b\u03a5\u0396\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 63,
+        "name": "Vazirgiannis Michalis - \u0392\u03b1\u03b6\u03b9\u03c1\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 64,
+        "name": "\u038a\u03c9\u03bd \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03c4\u03c3\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 65,
+        "name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0394\u03b7\u03bc\u03ac\u03ba\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 66,
+        "name": "Ioannis Kontogiannis",
+        "absence": []
+    },
+    {
+        "code": 67,
+        "name": "KONTOYIANNIS YIANNIS, DIMAKIS ANTONIS",
+        "absence": []
+    },
+    {
+        "code": 68,
+        "name": "\u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u03a4\u03bf\u03c5\u03bc\u03c0\u03ae\u03c2",
+        "absence": []
+    },
+    {
+        "code": 69,
+        "name": "VANA KALOGERAKI",
+        "absence": []
+    },
+    {
+        "code": 70,
+        "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039e\u03c5\u03bb\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 71,
+        "name": "\u03a4\u03b6\u03cc\u03b2\u03b1\u03c2 \u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 72,
+        "name": "\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u0397\u03a3  \u039a\u0391\u03a4\u0395\u03a1\u0399\u039d\u0397\u03a3",
+        "absence": []
+    },
+    {
+        "code": 73,
+        "name": "\u03a3. \u03a4\u03bf\u03c5\u03bc\u03c0\u03ae\u03c2",
+        "absence": []
+    },
+    {
+        "code": 74,
+        "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03c0\u03b1\u03ca\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5",
+        "absence": []
+    },
+    {
+        "code": 75,
+        "name": "ANTONIS DIMAKIS",
+        "absence": []
+    },
+    {
+        "code": 76,
+        "name": "\u039c\u03b1\u03b3\u03b5\u03af\u03c1\u03bf\u03c5 \u0395\u03c5\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2 &amp; \u0392\u03b1\u03c3\u03c3\u03ac\u03bb\u03bf\u03c2 \u03a0\u03ac\u03c1\u03b9\u03c2",
+        "absence": []
+    },
+    {
+        "code": 77,
+        "name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03b1\u03c1\u03bb\u03ae\u03c2 \u03ba\u03b1\u03b9 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039d\u03c4\u03b6\u03bf\u03c5\u03c6\u03c1\u03b1\u03c2",
+        "absence": []
+    },
+    {
+        "code": 78,
+        "name": "Vrontos Ioannis",
+        "absence": []
+    },
+    {
+        "code": 79,
+        "name": "Ioannidis Evagelos",
+        "absence": []
+    },
+    {
+        "code": 80,
+        "name": "Evagelos Ioannidis",
+        "absence": []
+    },
+    {
+        "code": 81,
+        "name": "Ioannidis Evangelos",
+        "absence": []
+    },
+    {
+        "code": 82,
+        "name": "Kostaki Anastasia",
+        "absence": []
+    },
+    {
+        "code": 83,
+        "name": "Dellaportas Petros",
+        "absence": []
+    },
+    {
+        "code": 84,
+        "name": "KYRIAKIDIS EPAMEINONDAS",
+        "absence": []
+    },
+    {
+        "code": 85,
+        "name": "\u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u0396\u03b1\u03b6\u03ac\u03bd\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 86,
+        "name": "\u0395\u03c5\u03b4\u03bf\u03ba\u03af\u03b1 \u039e\u03b5\u03ba\u03b1\u03bb\u03ac\u03ba\u03b7",
+        "absence": []
+    },
+    {
+        "code": 87,
+        "name": "\u0392\u03c1\u03cc\u03bd\u03c4\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 88,
+        "name": "\u039a\u03b1\u03bd\u03b4\u03b7\u03bb\u03ce\u03c1\u03bf\u03c5 \u0395\u03bb\u03ad\u03bd\u03b7",
+        "absence": []
+    },
+    {
+        "code": 89,
+        "name": "Zazanis Michalis",
+        "absence": []
+    },
+    {
+        "code": 90,
+        "name": "PAPPAS DIMITRIS",
+        "absence": []
+    },
+    {
+        "code": 91,
+        "name": "\u0396\u03b1\u03b6\u03ac\u03bd\u03b7\u03c2 \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 92,
+        "name": "Prof. Michalis Zazanis",
+        "absence": []
+    },
+    {
+        "code": 93,
+        "name": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2 \u039c\u03b5\u03c1\u03ba\u03bf\u03cd\u03c1\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 94,
+        "name": "Skouras Spyros",
+        "absence": []
+    },
+    {
+        "code": 95,
+        "name": "MILLIOU CHRYSOVALANTOU",
+        "absence": []
+    },
+    {
+        "code": 96,
+        "name": "Mplavoukos Spiros",
+        "absence": []
+    },
+    {
+        "code": 97,
+        "name": "PLIAKOS ASTERIOS",
+        "absence": []
+    },
+    {
+        "code": 98,
+        "name": "Christodoulakis Nikos",
+        "absence": []
+    },
+    {
+        "code": 99,
+        "name": "Loizidis Ioannis",
+        "absence": []
+    },
+    {
+        "code": 100,
+        "name": "TOPALOGLOY NIKOLAOS",
+        "absence": []
+    },
+    {
+        "code": 101,
+        "name": "Bourantonis Dimitris",
+        "absence": []
+    },
+    {
+        "code": 102,
+        "name": "\u039c\u03a0\u039f\u03a5\u03a1\u0391\u039d\u03a4\u03a9\u039d\u0397\u03a3 \u0394\u0397\u039c\u0397\u03a4\u03a1\u0397\u03a3\/ \u039c\u03a0\u039b\u0391\u0392\u039f\u03a5\u039a\u039f\u03a3 \u03a3\u03a0\u03a5\u03a1\u039f\u03a3",
+        "absence": []
+    },
+    {
+        "code": 103,
+        "name": "Georgios Karydis",
+        "absence": []
+    },
+    {
+        "code": 104,
+        "name": "\u039c\u03c0\u03bb\u03b1\u03b2\u03bf\u03cd\u03ba\u03bf\u03c2 \u03a3\u03c0\u03cd\u03c1\u03bf\u03c2 - \u039c\u03c0\u03bf\u03c5\u03c1\u03b1\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2",
+        "absence": []
+    },
+    {
+        "code": 105,
+        "name": "LOIZIDIS IOANNIS",
+        "absence": []
+    },
+    {
+        "code": 106,
+        "name": "Panagiotis Xatzipanagiotou",
+        "absence": []
+    },
+    {
+        "code": 107,
+        "name": "Antonios Demos",
+        "absence": []
+    },
+    {
+        "code": 108,
+        "name": "spyros vassilakis",
+        "absence": []
+    },
+    {
+        "code": 109,
+        "name": "Hatzipanayotou Panayotis",
+        "absence": []
+    },
+    {
+        "code": 110,
+        "name": "DIMITRIS CHRISTOPOYLOS",
+        "absence": []
+    },
+    {
+        "code": 111,
+        "name": "Tsakloglou Panagiotis",
+        "absence": []
+    },
+    {
+        "code": 112,
+        "name": "ROUMANIAS KOSTAS",
+        "absence": []
+    },
+    {
+        "code": 113,
+        "name": "BILIAS YANNIS",
+        "absence": []
+    },
+    {
+        "code": 114,
+        "name": "KOYNTOYRI FOIVI",
+        "absence": []
+    },
+    {
+        "code": 115,
+        "name": "Christoforou Asimina",
+        "absence": []
+    },
+    {
+        "code": 116,
+        "name": "\u03a0\u03b1\u03b3\u03bf\u03c5\u03bb\u03ac\u03c4\u03bf\u03c2 \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2",
+        "absence": []
+    },
+    {
+        "code": 117,
+        "name": "Nikos Christodoulakis",
+        "absence": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "code": 1,
+        "room": "A",
+        "capacity": 3
+    },
+    {
+        "code": 2,
+        "room": "B",
+        "capacity": 3
+    },
+    {
+        "code": 3,
+        "room": "C",
+        "capacity": 2
+    },
+    {
+        "code": 4,
+        "room": "D",
+        "capacity": 1
+    },
+    {
+        "code": 5,
+        "room": "E",
+        "capacity": 1
+    }
+]
